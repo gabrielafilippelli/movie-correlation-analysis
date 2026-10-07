@@ -1,4 +1,4 @@
-# Movie Correlation Analysis
+# Cinema Analytics: Investigating Budget and Rating Trends with Pandas
 
 ## Project Overview
 Analyzed a dataset of movies to identify correlations between variables such as budget, revenue, genre, ratings, and other key features. The goal was to uncover trends and patterns that influence movie performance.
